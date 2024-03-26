@@ -1,0 +1,11 @@
+.main{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;/*maring auto deixa centralizado*/
+    height: 500px;/*baseado na bora, então é baseada na borda, redimensionamento da caixa, conteúdo tem isso. mas a caixa não;*/
+    background-color:blueviolet;
+    color:aliceblue;
+    text-align: center;/*alinha o texto no centro*/
+    padding-top: 150px;/*diminui a distância do texto para a parte de cima*/
+    box-sizing:border-box; /*box-sizing-border box, da a altura baseado na caixa. */
+}
